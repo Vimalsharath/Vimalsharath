@@ -155,87 +155,49 @@ Dream:
   Become an AI Engineer
 ```
 
----
+# 💻 Tech Stack
 
-# ⚡ Tech Stack
+### 🚀 Languages
 
-## Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ---
 
-## Frontend
+### 🎨 Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## Backend
+### ⚙️ Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-## AI / ML
+### 🤖 AI / ML
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=00FF41"/>
-
-<img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logoColor=00FF41"/>
-
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=00FF41"/>
-
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
 ---
 
-## Tools
+### 🛠 Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=vercel"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
