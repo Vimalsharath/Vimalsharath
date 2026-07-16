@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<a href="https://raw.githubusercontent.com/Vimalsharath/Vimalsharath/main/assets/resume.pdf">
+<a href="https://raw.githubusercontent.com/Vimalsharath/Vimalsharath/main/assets/Vimal%20Resume.pdf">
 
 <img src="https://img.shields.io/badge/📄%20Download%20Resume-181717?style=for-the-badge"/>
 
