@@ -1,0 +1,114 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#000000"/>
+<stop offset="100%" stop-color="#021b08"/>
+</linearGradient>
+
+<linearGradient id="green" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#00ff41"/>
+<stop offset="100%" stop-color="#00c853"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="4" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+
+</filter>
+
+</defs>
+
+<rect width="1200" height="300" fill="url(#bg)"/>
+
+<g opacity=".08">
+
+<text x="40" y="40" fill="#00ff41" font-size="18" font-family="monospace">
+
+010101001011010101001010101001101010100101010100101010101010100101010
+
+<animate attributeName="y" values="-20;320" dur="10s" repeatCount="indefinite"/>
+
+</text>
+
+<text x="250" y="0" fill="#00ff41" font-size="18" font-family="monospace">
+
+1110101010100101010100101010101010010101010101010010101010101001
+
+<animate attributeName="y" values="-80;320" dur="8s" repeatCount="indefinite"/>
+
+</text>
+
+<text x="500" y="-50" fill="#00ff41" font-size="18" font-family="monospace">
+
+010101010101001010101010010101001010100101010100101010010101001
+
+<animate attributeName="y" values="-100;340" dur="12s" repeatCount="indefinite"/>
+
+</text>
+
+<text x="760" y="-40" fill="#00ff41" font-size="18" font-family="monospace">
+
+1010101010010101001010101010010101001010101010100101010101010010
+
+<animate attributeName="y" values="-50;330" dur="9s" repeatCount="indefinite"/>
+
+</text>
+
+<text x="1000" y="-30" fill="#00ff41" font-size="18" font-family="monospace">
+
+010101010100101010101001010101010010101010100101010100101010
+
+<animate attributeName="y" values="-30;340" dur="11s" repeatCount="indefinite"/>
+
+</text>
+
+</g>
+
+<line x1="80" y1="70" x2="1120" y2="70" stroke="#00ff41" stroke-width="2"/>
+
+<line x1="80" y1="230" x2="1120" y2="230" stroke="#00ff41" stroke-width="2"/>
+
+<text
+x="600"
+y="135"
+text-anchor="middle"
+font-family="Orbitron,Arial"
+font-size="46"
+fill="#00ff41"
+filter="url(#glow)"
+font-weight="bold">
+
+R.V. VIMAL
+
+</text>
+
+<text
+x="600"
+y="180"
+text-anchor="middle"
+font-family="Arial"
+font-size="22"
+fill="white">
+
+Artificial Intelligence Engineer
+
+</text>
+
+<text
+x="600"
+y="210"
+text-anchor="middle"
+font-family="monospace"
+font-size="15"
+fill="#00ff41">
+
+Python • React • FastAPI • LangChain • AI
+
+</text>
+
+</svg>
